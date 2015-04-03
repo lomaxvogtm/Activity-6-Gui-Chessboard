@@ -16,12 +16,5 @@ board = tk.Canvas(root, width = 900, height = 900, bg='gray')
 board.grid(row=0, column=0)
 board_squares()
 
+
 root.mainloop()
-
-
-
-
-
-
-
-
